@@ -1,5 +1,5 @@
 /*	Author: bmans001
- *  Partner(s) Name: Danielle Yee
+ *  Partner(s) Name: Alex
  *	Lab Section:
  *	Assignment: Lab #  Exercise #
  *	Exercise Description: [optional - include for your own benefit]
@@ -19,8 +19,12 @@ int main(void) {
     unsigned char tmpA = 0x00;
     unsigned char temp_input = 0x00;
     while (1) {
-        temp_input = PINA;
-        PORTB = temp_init;
+        if (A == 0x01) {
+            B = 0x01;
+        }
+        else {
+           B = 0x00; 
+        }
     }
     return 1;
 }
