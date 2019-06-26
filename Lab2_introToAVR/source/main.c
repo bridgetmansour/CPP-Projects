@@ -1,5 +1,5 @@
 /*	Author: bmans001
- *  Partner(s) Name: Alex
+ *  Partner(s) Name: Alex G
  *	Lab Section:
  *	Assignment: Lab #  Exercise #
  *	Exercise Description: [optional - include for your own benefit]
