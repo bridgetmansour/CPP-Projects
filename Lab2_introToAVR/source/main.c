@@ -1,5 +1,5 @@
 /*	Author: bmans001
- *  Partner(s) Name: Alex G
+ *  Partner(s) Name: 
  *	Lab Section:
  *	Assignment: Lab #  Exercise #
  *	Exercise Description: [optional - include for your own benefit]
@@ -13,19 +13,11 @@
 #endif
 
 int main(void) {
-    DDRA = 0x00; PORTA = 0xFF;
-    DDRB = 0xFF; PORTB = 0x00;
-    unsigned char tmpB = 0x00;
-    unsigned char tmpA = PINA;
-    unsigned char temp_input = 0x00;
+    /* Insert DDR and PORT initializations */
+
+    /* Insert your solution below */
     while (1) {
-        if (tmpA == 0x01) {
-            tmpB = 0x01;
-        }
-        else {
-           tmpB = 0x00; 
-        }
-        PORTB = tmpB;
+
     }
     return 1;
 }
