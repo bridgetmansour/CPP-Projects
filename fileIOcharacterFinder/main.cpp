@@ -4,7 +4,6 @@
 
 using namespace std;
 
-// Place charCnt prototype (declaration) here
 int charCnt (const string &filename, char ch) {
    ifstream inFS;
    int count = 0;
@@ -50,5 +49,3 @@ int main() {
    
    return 0;
 }
-
-// Place charCnt implementation here
