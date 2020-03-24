@@ -7,3 +7,4 @@ This folder contains programs for the following C++ based projects:
 - coefficientOfLift: Calculates the coefficient of lift for a given flight-path angle based on wind tunnel data stored in a file.
 - fileIOsumOfIntegers: Sums all of the integers within a file before closing it and returns the sum.
 - teamRoster: Stores roster and rating information for a soccer team in which coaches rate players during tryouts to ensure a balanced team.
+- pigDiceGame: Creates a dice game where each player during their turn rolls a 6-sided die. The first player to reach 100 points or more wins.
