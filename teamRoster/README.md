@@ -1,4 +1,4 @@
-# Soccer Team Roster using Vectors and Functions
+# Soccer Team Roster using vectors and functions
 
 This program will store roster and rating information for a soccer team in which coaches rate players during tryouts to ensure a balanced team by:
 1. Prompting the user to input five pairs of numbers: A player's jersey number (0 - 99) and the player's rating (1 - 9) and storing the jersey numbers in one int vector and the ratings in another int vector. Outputing these vectors (i.e., output the roster).
