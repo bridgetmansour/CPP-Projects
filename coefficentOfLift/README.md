@@ -1,4 +1,6 @@
-# This program calculates the coefficient of lift for a given flight-path angle based on wind tunnel data stored in a file.
+# Calculating Coefficient of Lift
+
+This program calculates the coefficient of lift for a given flight-path angle based on wind tunnel data stored in a file.
 
 ## Program Steps
 1. Ask the user for the name of file that contains the wind tunnel data.
