@@ -1,3 +1,5 @@
+# A text based Create-Your-Own game that uses object orientated programming.
+
 # Derived Classes
 ## Warrior
 Stores the warrior's allegiance as a string.
